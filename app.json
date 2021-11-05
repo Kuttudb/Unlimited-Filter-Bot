@@ -9,7 +9,7 @@
         "MoTechYT"
     ],
     "website": "https://github.com/MRK-YT",
-    "repository": "https://github.com/MRK-YT/Unlimited-Filter-Bot",
+    "repository": "https://github.com/Kuttudb/Unlimited-Filter-Bot",
     "success_url": "https://telegram.dog/Mo_Tech_YT",
     "env": {
         "WEBHOOK": {
